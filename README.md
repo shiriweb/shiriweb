@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shirisha Singh</h1>
 <h3 align="center">A dedicated web developer focused on building modern web applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shiriweb&label=Profile%20views&color=0e75b6&style=flat" alt="shiriweb" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiriweb&label=Profile%20views&color=0e75b6&style=flat" alt="shiriweb" /> </p> -->
 
 - 🔭 I’m currently working on **small web projects**
 
